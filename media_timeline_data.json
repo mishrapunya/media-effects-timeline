@@ -1,0 +1,100 @@
+[
+  {
+    "Date": "30,000 BCE \u2013 3000 BCE",
+    "Era": "Prehistoric & Ancient Communication",
+    "Technology": "Cave Paintings, Pictographs, Writing",
+    "Region/Culture": "Global (e.g., Mesopotamia, Egypt)",
+    "Cognitive Impact": "External memory storage, preservation of knowledge, shift from oral to symbolic thought.",
+    "Societal Impact": "Enabled administration, history keeping, and formation of complex societies.",
+    "Key Figures": "Sumerians, Egyptians",
+    "Sources": [
+      {
+        "label": "History of Writing",
+        "url": "https://en.wikipedia.org/wiki/History_of_writing"
+      },
+      {
+        "label": "Pictographs and Petroglyphs",
+        "url": "https://www.britannica.com/topic/pictography"
+      }
+    ]
+  },
+  {
+    "Date": "1440s",
+    "Era": "Printing Revolution",
+    "Technology": "Printing Press",
+    "Region/Culture": "Europe",
+    "Cognitive Impact": "Enabled mass literacy, externalized memory, and broader critical thought.",
+    "Societal Impact": "Democratized knowledge, catalyzed Reformation and Enlightenment.",
+    "Key Figures": "Johannes Gutenberg",
+    "Sources": [
+      {
+        "label": "The Flow of History",
+        "url": "https://www.flowofhistory.com/units/etc/18/FC74"
+      }
+    ]
+  },
+  {
+    "Date": "1830s\u20131870s",
+    "Era": "Telegraph and Telephone",
+    "Technology": "Telegraph, Telephone",
+    "Region/Culture": "Europe, U.S.",
+    "Cognitive Impact": "Annihilation of distance, real-time communication altered perception of time and space.",
+    "Societal Impact": "Enabled coordinated business, diplomacy, and news dissemination.",
+    "Key Figures": "Samuel Morse, Alexander Graham Bell",
+    "Sources": [
+      {
+        "label": "Imagining the Internet",
+        "url": "https://www.elon.edu/u/imagining/time-capsule/150-years/back-150-years/"
+      }
+    ]
+  },
+  {
+    "Date": "1920s\u20131940s",
+    "Era": "Mass Media Era",
+    "Technology": "Radio, Motion Pictures",
+    "Region/Culture": "Global (esp. U.S., Europe)",
+    "Cognitive Impact": "Created shared listening/viewing experiences; audio-visual learning.",
+    "Societal Impact": "Mass culture formation, wartime propaganda, real-time national experiences.",
+    "Key Figures": "FDR, Churchill, Hollywood",
+    "Sources": [
+      {
+        "label": "Digital History \u2013 Film",
+        "url": "https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=2&psid=3393"
+      }
+    ]
+  },
+  {
+    "Date": "1950s\u20131980s",
+    "Era": "Television Age",
+    "Technology": "Television",
+    "Region/Culture": "Global",
+    "Cognitive Impact": "Visual narrative dominance, attention span concerns, televised learning.",
+    "Societal Impact": "Family co-viewing, consumer culture, televised politics and protests.",
+    "Key Figures": "Marshall McLuhan, Neil Postman",
+    "Sources": [
+      {
+        "label": "Television History \u2013 Elon University",
+        "url": "https://www.elon.edu/u/imagining/time-capsule/150-years/television/"
+      }
+    ]
+  },
+  {
+    "Date": "1990s\u2013present",
+    "Era": "Digital & Social Media",
+    "Technology": "Internet, Social Media, Smartphones",
+    "Region/Culture": "Global",
+    "Cognitive Impact": "Always-on connectivity, multitasking, algorithmic influence on attention and beliefs.",
+    "Societal Impact": "Global communication, disruption of legacy media, polarization, misinformation.",
+    "Key Figures": "Tim Berners-Lee, Mark Zuckerberg, Jack Dorsey",
+    "Sources": [
+      {
+        "label": "Internet Society History",
+        "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/"
+      },
+      {
+        "label": "Center for Humane Technology",
+        "url": "https://www.humanetech.com/"
+      }
+    ]
+  }
+]
