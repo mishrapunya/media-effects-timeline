@@ -1,0 +1,322 @@
+[
+  {
+    "SortOrder": -100000,
+    "Date": "c. 100000 BCE",
+    "Era": "Era of Speech",
+    "Medium": "Speech",
+    "InteractionPsych": "Full narrative on how Speech influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Speech shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Speech transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Speech...",
+    "Sources": [
+      {
+        "label": "Primary Source for Speech",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Speech",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": -3000,
+    "Date": "c. 3000 BCE",
+    "Era": "Era of Writing Systems",
+    "Medium": "Writing Systems",
+    "InteractionPsych": "Full narrative on how Writing Systems influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Writing Systems shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Writing Systems transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Writing Systems...",
+    "Sources": [
+      {
+        "label": "Primary Source for Writing Systems",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Writing Systems",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": -2000,
+    "Date": "c. 2000 BCE",
+    "Era": "Era of Domesticated Horse",
+    "Medium": "Domesticated Horse",
+    "InteractionPsych": "Full narrative on how Domesticated Horse influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Domesticated Horse shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Domesticated Horse transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Domesticated Horse...",
+    "Sources": [
+      {
+        "label": "Primary Source for Domesticated Horse",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Domesticated Horse",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": 1300,
+    "Date": "1300",
+    "Era": "Era of Mechanical Clocks",
+    "Medium": "Mechanical Clocks",
+    "InteractionPsych": "Full narrative on how Mechanical Clocks influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Mechanical Clocks shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Mechanical Clocks transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Mechanical Clocks...",
+    "Sources": [
+      {
+        "label": "Primary Source for Mechanical Clocks",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Mechanical Clocks",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": 1440,
+    "Date": "1440",
+    "Era": "Era of Printing Press",
+    "Medium": "Printing Press",
+    "InteractionPsych": "Full narrative on how Printing Press influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Printing Press shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Printing Press transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Printing Press...",
+    "Sources": [
+      {
+        "label": "Primary Source for Printing Press",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Printing Press",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": 1840,
+    "Date": "1840",
+    "Era": "Era of Telegraph",
+    "Medium": "Telegraph",
+    "InteractionPsych": "Full narrative on how Telegraph influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Telegraph shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Telegraph transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Telegraph...",
+    "Sources": [
+      {
+        "label": "Primary Source for Telegraph",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Telegraph",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": 1850,
+    "Date": "1850",
+    "Era": "Era of Railroad",
+    "Medium": "Railroad",
+    "InteractionPsych": "Full narrative on how Railroad influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Railroad shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Railroad transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Railroad...",
+    "Sources": [
+      {
+        "label": "Primary Source for Railroad",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Railroad",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": 1876,
+    "Date": "1876",
+    "Era": "Era of Telephone",
+    "Medium": "Telephone",
+    "InteractionPsych": "Full narrative on how Telephone influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Telephone shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Telephone transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Telephone...",
+    "Sources": [
+      {
+        "label": "Primary Source for Telephone",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Telephone",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": 1880,
+    "Date": "1880",
+    "Era": "Era of Electricity",
+    "Medium": "Electricity",
+    "InteractionPsych": "Full narrative on how Electricity influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Electricity shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Electricity transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Electricity...",
+    "Sources": [
+      {
+        "label": "Primary Source for Electricity",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Electricity",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": 1920,
+    "Date": "1920",
+    "Era": "Era of Automobile",
+    "Medium": "Automobile",
+    "InteractionPsych": "Full narrative on how Automobile influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Automobile shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Automobile transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Automobile...",
+    "Sources": [
+      {
+        "label": "Primary Source for Automobile",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Automobile",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": 1925,
+    "Date": "1925",
+    "Era": "Era of Radio",
+    "Medium": "Radio",
+    "InteractionPsych": "Full narrative on how Radio influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Radio shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Radio transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Radio...",
+    "Sources": [
+      {
+        "label": "Primary Source for Radio",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Radio",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": 1930,
+    "Date": "1930",
+    "Era": "Era of Cinema",
+    "Medium": "Cinema",
+    "InteractionPsych": "Full narrative on how Cinema influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Cinema shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Cinema transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Cinema...",
+    "Sources": [
+      {
+        "label": "Primary Source for Cinema",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Cinema",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": 1950,
+    "Date": "1950",
+    "Era": "Era of Television",
+    "Medium": "Television",
+    "InteractionPsych": "Full narrative on how Television influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Television shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Television transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Television...",
+    "Sources": [
+      {
+        "label": "Primary Source for Television",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Television",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": 1995,
+    "Date": "1995",
+    "Era": "Era of Internet",
+    "Medium": "Internet",
+    "InteractionPsych": "Full narrative on how Internet influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Internet shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Internet transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Internet...",
+    "Sources": [
+      {
+        "label": "Primary Source for Internet",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Internet",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": 2005,
+    "Date": "2005",
+    "Era": "Era of Social Media",
+    "Medium": "Social Media",
+    "InteractionPsych": "Full narrative on how Social Media influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Social Media shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Social Media transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Social Media...",
+    "Sources": [
+      {
+        "label": "Primary Source for Social Media",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Social Media",
+        "url": "https://example.org"
+      }
+    ]
+  },
+  {
+    "SortOrder": 2015,
+    "Date": "2015",
+    "Era": "Era of Artificial Intelligence",
+    "Medium": "Artificial Intelligence",
+    "InteractionPsych": "Full narrative on how Artificial Intelligence influenced human cognition and interaction...",
+    "KnowledgeInfo": "Full discussion of how Artificial Intelligence shaped the structure, access, and authority of knowledge...",
+    "CulturePoliticsSociety": "Analysis of how Artificial Intelligence transformed political power, social structures, and culture...",
+    "UnexpectedEffects": "Exploration of adjacent possibilities and unintended consequences from Artificial Intelligence...",
+    "Sources": [
+      {
+        "label": "Primary Source for Artificial Intelligence",
+        "url": "https://example.com"
+      },
+      {
+        "label": "Secondary Source for Artificial Intelligence",
+        "url": "https://example.org"
+      }
+    ]
+  }
+]
