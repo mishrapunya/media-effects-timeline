@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Technology & Society Timeline</title><script src="https://cdn.tailwindcss.com"></script></head>
+<body class="bg-gray-50 text-slate-800 font-sans p-6"><div class="max-w-5xl mx-auto">
+<h1 class="text-4xl font-bold mb-2">Technology & Society Timeline</h1>
+<p class="text-lg text-gray-600 mb-8">Exploring how technologies shape cognition, knowledge, and culture across history.</p>
+<div id="timeline" class="space-y-10"></div></div>
+<script>
+fetch('final_timeline_sorted.json').then(r => r.json()).then(data => {
+  const container = document.getElementById('timeline');
+  data.forEach(entry => {
+    const div = document.createElement('div');
+    div.className = "bg-white rounded-xl shadow p-6";
+    div.innerHTML = `<h2 class="text-2xl font-semibold mb-1">${entry.Date} – ${entry.Medium}</h2>
+      <p class="text-sm text-gray-500 mb-3 italic">${entry.Era}</p>
+      <p><strong>Interaction / Psychology:</strong><br>${entry.InteractionPsych}</p>
+      <p class="mt-3"><strong>Knowledge & Information:</strong><br>${entry.KnowledgeInfo}</p>
+      <p class="mt-3"><strong>Culture, Politics & Society:</strong><br>${entry.CulturePoliticsSociety}</p>
+      <p class="mt-3"><strong>Unexpected Effects:</strong><br>${entry.UnexpectedEffects}</p>
+      <div class="mt-3"><strong>References:</strong><ul class="list-disc ml-5 mt-1">` +
+      (entry.Sources || []).map(src => `<li><a href="${src.url}" class="text-blue-600 underline" target="_blank">${src.label}</a></li>`).join('') +
+      `</ul></div>`;
+    container.appendChild(div);
+  });
+});
+</script></body></html>
